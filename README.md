@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jaime García
 #### _jaimgarod_10_
-I'm a 20 year student, that wants to learn a lot and be able to help other people. 
+I'm a 21 year student, that wants to learn a lot and be able to help other people. 
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, PHP. 
 - 📫 How to reach me: jaimcontact10@gmail.com
